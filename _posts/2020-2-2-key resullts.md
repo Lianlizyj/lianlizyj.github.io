@@ -1,0 +1,13 @@
+# key results
+- 1. 找到并安装功能完全的Xmanger
+  - [x] check case 提交任务
+- 2. 学会使用VOSviewer，实现文献分析
+  - [x] 配置java环境
+  - [x] 学习教程
+- 3. 搜索相关文献，并下载
+  - [x] 安装knopernio插件，方便获取全文
+- 4. 检索便捷的批量下载sci文献的方法
+  - [x] github repository 检索，发现sci-hub.py
+  - [x] 使用git命令，配置ssh公钥，clone the repository
+- 5. 使用pycharm，执行，查看效果
+  - [x] need to be done!
